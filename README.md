@@ -9,7 +9,7 @@ I build this C++ project with VS 2015 and used SFML 2.3.2 (http://www.sfml-dev.o
 
 ## Demo
 
-Is comming soon.
+Is coming soon.
 
 
 # License
